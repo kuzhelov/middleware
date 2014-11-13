@@ -1,0 +1,15 @@
+{
+  "name": "middleware-tests",
+  "version": "0.1.0",
+  "description": "Test application of middleware of Express",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuzhelov",
+  "license": "ISC"
+}
